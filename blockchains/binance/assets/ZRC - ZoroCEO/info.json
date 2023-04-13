@@ -1,0 +1,35 @@
+    "name": "Zoro CEO",
+    "website": "https://zoroceo.com/",
+    "description": "Zoro CEO is a community project that offers daily and monthly prizes to lucky ZRC holders. Thanks to the development team's various burning mechanisms, ZRC is constantly being burned, making it increasingly scarce with the support of the community. Together, the development team aims to make ZRC the best meme coin of 2023",
+    "explorer": "https://bscscan.com/address/0xbbfe76fa9d566604795396647bbe7c2a1e3ba326",
+    "research": "https://moonarch.app/token/0xbbfe76fa9d566604795396647bbe7c2a1e3ba326",
+    "symbol": "ZRC",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "meme,community"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/zoroceo"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zoroceotoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Zoroceo"
+        },
+        {
+            "name": "Coinmarketcap",
+            "url": "https://github.com/zoroceo/whitepaper/blob/main/ZRC.pdf"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/zoroceo/whitepaper/blob/main/ZRC.pdf"
+        }
+    ]
+}
